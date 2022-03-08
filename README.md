@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Igarri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMZN-Igarri)
+![Igarri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMZN-Igarri&show_icons=true&theme=tokyonight)
 <!--
 **AMZN-Igarri/AMZN-Igarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
