@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Igarri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachomartgar&show_icons=true&theme=tokyonight)
+![Nachomartgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nachomartgar&show_icons=true&theme=tokyonight)
 <!--
 **Nachomartgar/Nachomartgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
